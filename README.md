@@ -78,6 +78,6 @@ Scopul a fost demonstrarea stăpânirii conceptelor avansate de modelare a datel
 
 Panaet Maria Alexandra 
 
-**GitHub:** [@alexandra602]
+**GitHub:** [@alexandra602] (https://github.com/alexandra602)
 
-**Proiect realizat la Facultatea de Matematică și Informatică.**
+**Proiect realizat în cadrul Facultății de Matematică și Informatică, Universitatea din București.**
